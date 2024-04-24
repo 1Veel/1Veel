@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on not having errors
+- 🔭 I’m currently working on not having errors!
 - 📫 How to reach me: y.shamveel@gmail.com
 <!--
 **1Veel/1Veel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
