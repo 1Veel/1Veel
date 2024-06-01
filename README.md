@@ -1,4 +1,6 @@
 ### Hi there 👋
+- I don’t create bugs 🐛; I develop spontaneous features.
+- From “Hello World” to “Goodbye Sanity.”
 - 🔭 I’m currently working on not having errors!
 - 📫 How to reach me: y.shamveel@gmail.com
 <!--
